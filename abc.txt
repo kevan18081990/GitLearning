@@ -4,3 +4,4 @@ Changes from branch1
 Nice to meet you
 How are you?
 change1
+change2
