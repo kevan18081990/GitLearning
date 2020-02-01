@@ -17,3 +17,4 @@ commit from branch3
 commit 2 from branch3
 commit 1 from branch4
 commit 2 from branch4
+new stable
