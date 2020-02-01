@@ -12,3 +12,4 @@ change from branch2
 change from branch2 commit 2
 this is stable
 this is also stable
+most stable
