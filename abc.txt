@@ -1,3 +1,5 @@
 This is my text
 Hello World
 Changes from branch1
+Nice to meet you
+How are you?
